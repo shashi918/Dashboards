@@ -7,7 +7,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/shashi918/Dashboards.git
 Open the Power BI or Excel files with the respective applications.
 
 
